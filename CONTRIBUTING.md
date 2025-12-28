@@ -65,6 +65,19 @@ Before contributing, please take a moment to read through the following guidelin
 
 10. **Merge:** Once your pull request is reviewed and approved, it will be merged into the main branch.
 
+## Example: First-Time Contribution
+
+If you are contributing to OM1 for the first time, a simple documentation improvement is a good starting point.
+
+Example workflow:
+1. Fork the repository.
+2. Create a new branch (e.g., docs-clarify-contributing).
+3. Make a small documentation improvement, such as clarifying a section or fixing outdated information.
+4. Commit your change using a clear message (e.g., docs: clarify first-time contribution steps).
+5. Push your branch and open a pull request.
+
+This type of contribution is fully valid and helps improve the developer experience for new contributors.
+
 **Coding Style and Conventions:**
 
 *   **Code Style:**  Follow the [PEP 8](https://www.python.org/dev/peps/pep-0008/) style guide.  We may use a code formatter like `black` or `ruff` (check the `pyproject.toml` or `setup.cfg` for project-specific configuration).  Run `pre-commit run --all-files` before committing.
