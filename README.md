@@ -27,7 +27,7 @@ To get started with OM1, let's run the Spot agent. Spot uses your webcam to capt
 
 ### Package Management and VENV
 
-You will need the [`uv` package manager](https://docs.astral.sh/uv/getting-started/installation/).
+You will need to install and use the `uv` environment and package manager tool.(https://docs.astral.sh/uv/getting-started/installation/).
 
 ### Clone the Repo
 
